@@ -1,0 +1,8 @@
+<map id="DPC_ObjectDetection_StaticCfg_t" name="DPC_ObjectDetection_StaticCfg_t">
+<area shape="rect" id="node1" title=" " alt="" coords="199,199,351,240"/>
+<area shape="rect" id="node2" href="/home/lte_phy/Desktop/Kalyan/Gen1/68xx_safe_secure/mmwave_sdk/ti/datapath/dpc/dpu/aoa2dproc/docs/aoa2dproc.tag$struct_a_n_t_d_e_f___ant_geometry__t.html" title=" " alt="" coords="5,109,176,136"/>
+<area shape="rect" id="node3" href="/home/lte_phy/Desktop/Kalyan/Gen1/68xx_safe_secure/mmwave_sdk/ti/datapath/dpc/dpu/aoa2dproc/docs/aoa2dproc.tag$struct_a_n_t_d_e_f___ant_offset__t.html" title=" " alt="" coords="15,5,166,32"/>
+<area shape="rect" id="node4" href="/home/lte_phy/Desktop/Kalyan/Gen1/68xx_safe_secure/mmwave_sdk/ti/datapath/dpu/rangeproc/docs/rangeproc.tag$struct_d_p_i_f___a_d_c_buf_data__t.html" title=" " alt="" coords="201,109,349,136"/>
+<area shape="rect" id="node5" href="/home/lte_phy/Desktop/Kalyan/Gen1/68xx_safe_secure/mmwave_sdk/ti/datapath/dpu/rangeproc/docs/rangeproc.tag$struct_d_p_i_f___a_d_c_buf_property__t.html" title=" " alt="" coords="190,5,359,32"/>
+<area shape="rect" id="node6" href="/home/lte_phy/Desktop/Kalyan/Gen1/68xx_safe_secure/mmwave_sdk/ti/datapath/dpu/rangeproc/docs/rangeproc.tag$struct_d_p_u___range_proc_h_w_a___f_f_ttuning__t.html" title=" " alt="" coords="373,109,605,136"/>
+</map>

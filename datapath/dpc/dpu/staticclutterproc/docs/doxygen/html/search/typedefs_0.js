@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['dpif_5fadcbufdata_207',['DPIF_ADCBufData',['../dpif__adcdata_8h.html#ad8673f34862e8535e824b27b05d20c61',1,'dpif_adcdata.h']]],
+  ['dpif_5fadcbufproperty_208',['DPIF_ADCBufProperty',['../dpif__adcdata_8h.html#ae1771ff69e16398c98e3ec4ac3c0f2f1',1,'dpif_adcdata.h']]],
+  ['dpif_5fcfardetlist_209',['DPIF_CFARDetList',['../dpif__pointcloud_8h.html#aa0e37aed134729b1fe9b41bf7890d33c',1,'dpif_pointcloud.h']]],
+  ['dpif_5fdataformat_210',['DPIF_DATAFORMAT',['../dpif__types_8h.html#a08f7babf969e3c8d2b50a7b0180c8c24',1,'dpif_types.h']]],
+  ['dpif_5fdetmatrix_211',['DPIF_DetMatrix',['../dpif__detmatrix_8h.html#a47bc423fcc28fd016899a5a3b6ed55ae',1,'dpif_detmatrix.h']]],
+  ['dpif_5fpointcloudcartesian_212',['DPIF_PointCloudCartesian',['../dpif__pointcloud_8h.html#a04357c18d7101182899a63959617b434',1,'dpif_pointcloud.h']]],
+  ['dpif_5fpointcloudsideinfo_213',['DPIF_PointCloudSideInfo',['../dpif__pointcloud_8h.html#a5c676af8d1b6014da1726c7a54cdc1e8',1,'dpif_pointcloud.h']]],
+  ['dpif_5fpointcloudspherical_214',['DPIF_PointCloudSpherical',['../dpif__pointcloud_8h.html#a02ed8eb8ba548c5d479e41f5af3bc0cf',1,'dpif_pointcloud.h']]],
+  ['dpif_5fradarcube_215',['DPIF_RadarCube',['../dpif__radarcube_8h.html#a3ba1abc6ec53aaad7db66cee6cdfd678',1,'dpif_radarcube.h']]],
+  ['dpif_5frxchan_5finterleave_216',['DPIF_RXCHAN_INTERLEAVE',['../dpif__adcdata_8h.html#a9c22484f2d8a36760654610385c3f31a',1,'dpif_adcdata.h']]],
+  ['dpu_5fstaticclutterproc_5fconfig_217',['DPU_StaticClutterProc_Config',['../group___d_p_u___s_t_a_t_i_c_c_l_u_t_t_e_r_p_r_o_c___e_x_t_e_r_n_a_l___d_a_t_a___s_t_r_u_c_t_u_r_e.html#ga707c975483da8b642525e691504b37c5',1,'staticclutterproc.h']]],
+  ['dpu_5fstaticclutterproc_5fedmacfg_218',['DPU_StaticClutterProc_EdmaCfg',['../group___d_p_u___s_t_a_t_i_c_c_l_u_t_t_e_r_p_r_o_c___e_x_t_e_r_n_a_l___d_a_t_a___s_t_r_u_c_t_u_r_e.html#ga74ccca513045a98b324470851edb5d03',1,'staticclutterproc.h']]],
+  ['dpu_5fstaticclutterproc_5fhandle_219',['DPU_StaticClutterProc_Handle',['../staticclutterproc_8h.html#afce86289802cf43d23d1ea5724b08383',1,'staticclutterproc.h']]],
+  ['dpu_5fstaticclutterproc_5fhw_5fresources_220',['DPU_StaticClutterProc_HW_Resources',['../group___d_p_u___s_t_a_t_i_c_c_l_u_t_t_e_r_p_r_o_c___e_x_t_e_r_n_a_l___d_a_t_a___s_t_r_u_c_t_u_r_e.html#ga11975b1bcd7ffc54eaf836460903ec22',1,'staticclutterproc.h']]],
+  ['dpu_5fstaticclutterproc_5fobj_221',['DPU_StaticClutterProc_Obj',['../group___d_p_u___s_t_a_t_i_c_c_l_u_t_t_e_r_p_r_o_c___i_n_t_e_r_n_a_l___d_a_t_a___s_t_r_u_c_t_u_r_e.html#ga84f2c1dbb92a1620f762d0b0650a1787',1,'staticclutterproc_internal.h']]],
+  ['dpu_5fstaticclutterproc_5foutparams_222',['DPU_StaticClutterProc_OutParams',['../group___d_p_u___s_t_a_t_i_c_c_l_u_t_t_e_r_p_r_o_c___e_x_t_e_r_n_a_l___d_a_t_a___s_t_r_u_c_t_u_r_e.html#ga2420a34c0400225c078cdf450f459ca9',1,'staticclutterproc.h']]],
+  ['dpu_5fstaticclutterproc_5fscratchbuf_223',['DPU_StaticClutterProc_ScratchBuf',['../group___d_p_u___s_t_a_t_i_c_c_l_u_t_t_e_r_p_r_o_c___e_x_t_e_r_n_a_l___d_a_t_a___s_t_r_u_c_t_u_r_e.html#gad39adadeab176e78f94cb39f85dc77b7',1,'staticclutterproc.h']]],
+  ['dpu_5fstaticclutterproc_5fstaticconfig_224',['DPU_StaticClutterProc_StaticConfig',['../group___d_p_u___s_t_a_t_i_c_c_l_u_t_t_e_r_p_r_o_c___e_x_t_e_r_n_a_l___d_a_t_a___s_t_r_u_c_t_u_r_e.html#ga6366708dd9deec54a4f7f955bbafcf19',1,'staticclutterproc.h']]],
+  ['dpu_5fstaticclutterproc_5fstats_225',['DPU_StaticClutterProc_Stats',['../group___d_p_u___s_t_a_t_i_c_c_l_u_t_t_e_r_p_r_o_c___e_x_t_e_r_n_a_l___d_a_t_a___s_t_r_u_c_t_u_r_e.html#ga06f966286305f21b697c20611f005f80',1,'staticclutterproc.h']]]
+];

@@ -1,0 +1,75 @@
+\documentclass{article}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+\usepackage{newunicodechar}
+  \newunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \newunicodechar{²}{${}^{2}$}% Superscript two
+  \newunicodechar{³}{${}^{3}$}% Superscript three
+
+\pagestyle{empty}
+\begin{document}
+\[ x_{k,m,l}(n)=A \exp (j2\pi\frac{f_R}{N_{RFFT}}n + j2\pi\frac{f_A}{N_{AFFT}}(m+m_{azim}(l)) + j\varphi_{elev}(l)+j2\pi\frac{f_D}{N_{Tx}N_{DFFT}}k) + noise \]
+\pagebreak
+
+\[ m_{azim}(l) = \{0,4,2\} \]
+\pagebreak
+
+\[ \varphi_{elev}(l) = \left\{ \begin{array}{lr} 0 & : l=0,1\\ \pi\sin(\phi_{deg} / 180 \cdot \pi) & : l=2 \end{array} \right. \]
+\pagebreak
+
+$k$
+\pagebreak
+
+$k=0,...,N_{Tx}N_{DFFT}-1$
+\pagebreak
+
+$m$
+\pagebreak
+
+$m=0,...,N_{Rx}-1$
+\pagebreak
+
+$l$
+\pagebreak
+
+$l=0,...,N_{Tx}-1$
+\pagebreak
+
+$n$
+\pagebreak
+
+$n=0,...,N_{ADC}-1$
+\pagebreak
+
+$f_{R}$
+\pagebreak
+
+$f_{D}$
+\pagebreak
+
+$f_{A}$
+\pagebreak
+
+$\phi_{deg}$
+\pagebreak
+
+$N_{ADC}$
+\pagebreak
+
+$N_{RFFT}$
+\pagebreak
+
+$N_{AFFT}$
+\pagebreak
+
+$N_{Tx}$
+\pagebreak
+
+$N_{Rx}$
+\pagebreak
+
+$N_{DFFT}$
+\pagebreak
+
+\end{document}

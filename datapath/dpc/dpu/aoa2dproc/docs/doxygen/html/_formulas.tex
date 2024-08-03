@@ -1,0 +1,147 @@
+\documentclass{article}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+\usepackage{newunicodechar}
+  \newunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \newunicodechar{²}{${}^{2}$}% Superscript two
+  \newunicodechar{³}{${}^{3}$}% Superscript three
+
+\pagestyle{empty}
+\begin{document}
+$N_{TxAnt}*N_{RxAnt}*N_{DopplerChirps}*sizeof(cmplx16ImRe\_t) \leq 16\;KB$
+\pagebreak
+
+$N_{TxAnt}*N_{RxAnt}*N_{DopplerBins}*sizeof(cmplx16ImRe\_t) \leq 16\;KB$
+\pagebreak
+
+$ \lambda/2 $
+\pagebreak
+
+$w_x$
+\pagebreak
+
+$w_z$
+\pagebreak
+
+$\delta=0$
+\pagebreak
+
+$AB = \frac{\lambda}{2} \sin (\phi)$
+\pagebreak
+
+$W_z = \frac{2\pi}{\lambda} \cdot AB$
+\pagebreak
+
+$W_z = \pi \sin (\phi)$
+\pagebreak
+
+$CD = \frac{\lambda}{2} \sin (\theta) \cos (\phi)$
+\pagebreak
+
+$w_x = \frac{2\pi}{\lambda} \cdot CD$
+\pagebreak
+
+$w_x = \pi \sin (\theta) \cos (\phi)$
+\pagebreak
+
+$k_{azim},k_{elev}$
+\pagebreak
+
+$N{\times}N$
+\pagebreak
+
+$[-\frac{N}{2}, \frac{N}{2}-1]$
+\pagebreak
+
+$ w_x $
+\pagebreak
+
+\[ w_x = \frac{2\pi}{N}k_{azim} \]
+\pagebreak
+
+\[ w_z= \frac{2\pi}{N}k_{elev} \]
+\pagebreak
+
+\[ R=k_r\frac{c \cdot F_{SAMP}}{2 \cdot S \cdot N_{FFT}} \]
+\pagebreak
+
+$c$
+\pagebreak
+
+$k_r$
+\pagebreak
+
+$F_{SAMP}$
+\pagebreak
+
+$S$
+\pagebreak
+
+$N_{FFT}$
+\pagebreak
+
+$R$
+\pagebreak
+
+$(x,y,z)$
+\pagebreak
+
+\[ x = R\cos(\phi)\sin(\theta) = R\frac{w_x}{\pi}, \;\;\;\;\; z = R\sin(\phi) = R\frac{w_z}{\pi},\;\;\;\;\; y = \sqrt{R^2-x^2-z^2} \]
+\pagebreak
+
+$\theta$
+\pagebreak
+
+$\phi$
+\pagebreak
+
+$\phi_{min},\;\phi_{max},$
+\pagebreak
+
+$\theta_{min},\;\theta_{max}$
+\pagebreak
+
+$W_z$
+\pagebreak
+
+$W_x$
+\pagebreak
+
+$W_z = w_z/\pi$
+\pagebreak
+
+$W_x = w_x/\pi$
+\pagebreak
+
+$W_z = \sin(\phi)$
+\pagebreak
+
+$W_x = \cos(\phi) \sin(\theta)$
+\pagebreak
+
+\[ \sin(\phi_{min}) \leq W_z \leq \sin(\phi_{max}) \]
+\pagebreak
+
+$\cos(\phi)$
+\pagebreak
+
+\[ \cos(\phi)\sin(\theta_{min}) \leq W_x \leq \cos(\phi) \sin(\theta_{max}) \]
+\pagebreak
+
+$\cos(\phi) = \sqrt{1 - \sin(\phi)^2} = \sqrt{1 - W_z^2}$
+\pagebreak
+
+$\sin(\phi_{min})$
+\pagebreak
+
+$\sin(\phi_{max})$
+\pagebreak
+
+$\sin(\theta_{min})$
+\pagebreak
+
+$\sin(\theta_{max})$
+\pagebreak
+
+\end{document}

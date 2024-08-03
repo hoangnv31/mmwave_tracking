@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['noise_413',['noise',['../struct_d_p_i_f___point_cloud_side_info__t.html#a65c1816e9bf24c7ed2b5a4f779ee4fbe',1,'DPIF_PointCloudSideInfo_t::noise()'],['../struct_d_p_i_f___c_f_a_r_det_list__t.html#ad14c9756e5e511a8e8e4bbfdc59e2027',1,'DPIF_CFARDetList_t::noise()'],['../struct_d_p_u___c_f_a_r_c_a_proc_h_w_a___cfar_det_output__t.html#a4e19e8d49b237dd610ad4d24252e1a8c',1,'DPU_CFARCAProcHWA_CfarDetOutput_t::noise()']]],
+  ['noisedivshift_414',['noiseDivShift',['../struct_d_p_u___c_f_a_r_c_a_proc___cfar_cfg__t.html#a8bc47841baeabcf669e2c6586ff75972',1,'DPU_CFARCAProc_CfarCfg_t']]],
+  ['numadcsamples_415',['numAdcSamples',['../struct_d_p_i_f___a_d_c_buf_property__t.html#a0d8fdc9575aa8154449cbfe34cc8dfa5',1,'DPIF_ADCBufProperty_t']]],
+  ['numcfardetectedpoints_416',['numCfarDetectedPoints',['../struct_d_p_u___c_f_a_r_c_a_proc_d_s_p___out_params__t.html#ac358d337e9e340b13db65f77e15e5adf',1,'DPU_CFARCAProcDSP_OutParams_t::numCfarDetectedPoints()'],['../struct_d_p_u___c_f_a_r_c_a_proc_h_w_a___out_params__t.html#ab5c861d035a522805d5d6518aa3c07c2',1,'DPU_CFARCAProcHWA_OutParams_t::numCfarDetectedPoints()']]],
+  ['numchirpsperchirpevent_417',['numChirpsPerChirpEvent',['../struct_d_p_i_f___a_d_c_buf_property__t.html#afc576e46255f345bfda3fdb9d2a170d9',1,'DPIF_ADCBufProperty_t']]],
+  ['numdopplerbins_418',['numDopplerBins',['../struct_d_p_u___c_f_a_r_c_a_proc_d_s_p___static_config__t.html#af18be854164a6dba41619a040742c21f',1,'DPU_CFARCAProcDSP_StaticConfig_t::numDopplerBins()'],['../struct_d_p_u___c_f_a_r_c_a_proc_h_w_a___static_config__t.html#a4efc3427e16f752cf8c0d874b88ab954',1,'DPU_CFARCAProcHWA_StaticConfig_t::numDopplerBins()']]],
+  ['numhwacfarobjs_419',['numHwaCfarObjs',['../struct_c_f_a_r_hwa_obj__t.html#a7e7abd795a62f411037fd6283c193be7',1,'CFARHwaObj_t']]],
+  ['numparamset_420',['numParamSet',['../struct_d_p_u___c_f_a_r_c_a_proc_h_w_a___hwa_cfar_config__t.html#ac3c2914f0eff09cb8781c1faab2ba385',1,'DPU_CFARCAProcHWA_HwaCfarConfig_t']]],
+  ['numprocess_421',['numProcess',['../struct_d_p_u___c_f_a_r_c_a_proc___stats__t.html#ae3fc3b39dbf9908571dd49b24c945f0c',1,'DPU_CFARCAProc_Stats_t::numProcess()'],['../struct_c_f_a_r_c_a_dsp_obj__t.html#a0aa494246d4af6ce92477070b2813d48',1,'CFARCADspObj_t::numProcess()'],['../struct_c_f_a_r_hwa_obj__t.html#acdf6f139cd4359293566258487e6b40d',1,'CFARHwaObj_t::numProcess()']]],
+  ['numrangebins_422',['numRangeBins',['../struct_d_p_u___c_f_a_r_c_a_proc_d_s_p___static_config__t.html#ab8f2dbee076f4e2b822ecf543dba89a0',1,'DPU_CFARCAProcDSP_StaticConfig_t::numRangeBins()'],['../struct_d_p_u___c_f_a_r_c_a_proc_h_w_a___static_config__t.html#a8d4f96d5ef49a5b1cad8108be3220053',1,'DPU_CFARCAProcHWA_StaticConfig_t::numRangeBins()']]],
+  ['numrxantennas_423',['numRxAntennas',['../struct_d_p_i_f___a_d_c_buf_property__t.html#a91e3eb809e32e5d98d521a7a5457ee64',1,'DPIF_ADCBufProperty_t']]]
+];

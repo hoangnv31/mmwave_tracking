@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['fovdoppler_229',['fovDoppler',['../struct_d_p_u___c_f_a_r_c_a_proc_d_s_p___dynamic_config__t.html#af87cb4b6fd7efecab679cf359df05825',1,'DPU_CFARCAProcDSP_DynamicConfig_t::fovDoppler()'],['../struct_d_p_u___c_f_a_r_c_a_proc_h_w_a___dynamic_config__t.html#ad2f4b4214a5e1ec5fab446ac46585ae2',1,'DPU_CFARCAProcHWA_DynamicConfig_t::fovDoppler()'],['../struct_c_f_a_r_c_a_dsp_obj__t.html#a11ef05e0e0135e7e07b1a40a8e76058f',1,'CFARCADspObj_t::fovDoppler()'],['../struct_c_f_a_r_hwa_obj__t.html#a091cbccb9f989309823da8b40bcf8f4c',1,'CFARHwaObj_t::fovDoppler()']]],
+  ['fovrange_230',['fovRange',['../struct_d_p_u___c_f_a_r_c_a_proc_d_s_p___dynamic_config__t.html#af4d6ec279f1baedb072a340035d2c108',1,'DPU_CFARCAProcDSP_DynamicConfig_t::fovRange()'],['../struct_d_p_u___c_f_a_r_c_a_proc_h_w_a___dynamic_config__t.html#ac7b01e78b5069612de235bbab9dc3db9',1,'DPU_CFARCAProcHWA_DynamicConfig_t::fovRange()'],['../struct_c_f_a_r_c_a_dsp_obj__t.html#a365c976d299e4798bb6acbc2ac3ada99',1,'CFARCADspObj_t::fovRange()'],['../struct_c_f_a_r_hwa_obj__t.html#af314616e6acd8c8bb326800d52984d4e',1,'CFARHwaObj_t::fovRange()']]]
+];
